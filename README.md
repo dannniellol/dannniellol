@@ -1,5 +1,6 @@
-## Hi there 👋
-## Programming Languages I Use
+# Hi there 👋
+- 🔭 I’m currently learning & working machine learning projects
+### Programming Languages I Use
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
@@ -12,8 +13,6 @@
 **dannniellol/dannniellol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  Here are some ideas to get you started:
 -->
-# About me
-- 🔭 I’m currently learning & working machine learning projects
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
