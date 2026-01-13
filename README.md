@@ -8,13 +8,12 @@
 </p>
 
 
-
+<!--
 **dannniellol/dannniellol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-<!-- Here are some ideas to get you started:
+ Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on machine learning projects
+- 🔭 I’m currently learning & working machine learning projects
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
