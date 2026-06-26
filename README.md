@@ -1,6 +1,7 @@
 # Hi there 👋
 
-- 🔭 I’m currently learning & working machine learning projects
+- 🔭 I’m currently learning & working on machine learning projects and applications in aeronautics
+- Aeronautics undergrad 
 
 # Programming Languages I Use
 <p>
