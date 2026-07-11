@@ -3,6 +3,10 @@
 - 🔭 I’m currently learning & working on machine learning projects and applications in aeronautics
 - Aeronautics undergrad
 
+> [!IMPORTANT]
+> Updating whenever I feel like it
+
+
 # Programming Languages I Use
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
