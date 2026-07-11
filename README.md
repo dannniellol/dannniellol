@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🔭 I’m currently learning & working on machine learning projects and applications in aeronautics
-- Aeronautics undergrad 
+- Aeronautics undergrad
 
 # Programming Languages I Use
 <p>
@@ -14,10 +14,8 @@
 
 
 # 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannniellol&show_icons=true)
-🏆 GitHub Trophy
-🐍 Contribution Snake
+
 
 
 <!-- 
