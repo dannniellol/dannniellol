@@ -13,17 +13,47 @@
 </p>
 
 
+# 📊 GitHub Stats
 
-<!--
-**dannniellol/dannniellol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
- Here are some ideas to get you started:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dannniellol&show_icons=true)
+🏆 GitHub Trophy
+🐍 Contribution Snake
+
+
+<!-- 
+Inline
+Use `print()`.
+
+Block
+```python
+print("Hello")
+```
+Links
+[Text](address)
+
+
+
+Emojis 
+| Code           | Emoji |
+| -------------- | ----- |
+| `:rocket:`     | 🚀    |
+| `:airplane:`   | ✈️    |
+| `:computer:`   | 💻    |
+| `:books:`      | 📚    |
+| `:camera:`     | 📷    |
+| `:robot:`      | 🤖    |
+| `:gear:`       | ⚙️    |
+| `:fire:`       | 🔥    |
+| `:star:`       | ⭐     |
+| `:trophy:`     | 🏆    |
+| `:zap:`        | ⚡     |
+| `:earth_asia:` | 🌏    |
+| `:seedling:`   | 🌱    |
+
+
+Task Lists
+- [x] Learn Python
+- [x] Learn Git
+- [ ] Learn Docker
 -->
-<!--
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
